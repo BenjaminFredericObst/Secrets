@@ -1,4 +1,4 @@
-# Projekt-Dokumentation
+# Secrets
 
 ## GitHub Actions Workflow mit Secrets
 
